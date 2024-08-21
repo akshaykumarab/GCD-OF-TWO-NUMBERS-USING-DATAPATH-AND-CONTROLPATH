@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Aug 15 19:44:00 2024
+[*]
+[dumpfile] "D:\verilogs\GCD_OF_TWO_NUMBERS\gcd.vcd"
+[dumpfile_mtime] "Thu Aug 15 19:35:55 2024"
+[dumpfile_size] 7331
+[savefile] "D:\verilogs\GCD_OF_TWO_NUMBERS\gcd.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -87 -87
+*-14.398596 94900 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@24
+gcd_testbench.CON.clk
+@25
+[color] 3
+gcd_testbench.DP.Aout[15:0]
+@24
+gcd_testbench.DP.Bout[15:0]
+gcd_testbench.DP.Bus[15:0]
+gcd_testbench.CON.ldA
+gcd_testbench.CON.ldB
+[color] 2
++{gcd_testbench.CON.done} gcd_testbench.CON.done
+gcd_testbench.DP.Subout[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
